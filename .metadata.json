@@ -1,0 +1,22 @@
+[
+  {
+    "package": "describer",
+    "oncran": true
+  },
+  {
+    "package": "detector",
+    "oncran": true
+  },
+  {
+    "package": "generator",
+    "oncran": true
+  },
+  {
+    "package": "gym",
+    "oncran": true
+  },
+  {
+    "package": "titanic",
+    "oncran": true
+  }
+]
