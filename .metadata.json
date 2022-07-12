@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "gym",
-    "oncran": true
-  },
-  {
     "package": "titanic",
     "oncran": true
   }

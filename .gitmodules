@@ -18,12 +18,6 @@
 	url = https://github.com/paulhendricks/generator
 	shallow = true
 	registered = true
-[submodule "gym"]
-	path = gym
-	url = https://github.com/paulhendricks/gym-r
-	shallow = true
-	subdir = gym
-	registered = true
 [submodule "titanic"]
 	path = titanic
 	url = https://github.com/paulhendricks/titanic
