@@ -1,5 +1,9 @@
 [
   {
+    "package": "describer",
+    "oncran": true
+  },
+  {
     "package": "detector",
     "oncran": true
   },

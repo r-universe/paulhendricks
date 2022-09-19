@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "describer"]
+	path = describer
+	url = https://github.com/paulhendricks/describer
+	shallow = true
+	registered = true
 [submodule "detector"]
 	path = detector
 	url = https://github.com/paulhendricks/detector
