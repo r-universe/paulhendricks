@@ -8,12 +8,6 @@
 	url = https://github.com/paulhendricks/describer
 	shallow = true
 	registered = true
-[submodule "gym"]
-	path = gym
-	url = https://github.com/paulhendricks/gym-r
-	shallow = true
-	subdir = gym
-	registered = true
 [submodule "detector"]
 	path = detector
 	url = https://github.com/paulhendricks/detector
@@ -23,6 +17,12 @@
 	path = generator
 	url = https://github.com/paulhendricks/generator
 	shallow = true
+	registered = true
+[submodule "gym"]
+	path = gym
+	url = https://github.com/paulhendricks/gym-r
+	shallow = true
+	subdir = gym
 	registered = true
 [submodule "titanic"]
 	path = titanic
